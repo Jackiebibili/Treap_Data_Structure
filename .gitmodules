@@ -1,0 +1,3 @@
+[submodule "lib/binary_tree"]
+	path = lib/binary_tree
+	url = git@github.com:Jackiebibili/Binary_Search_Tree.git
